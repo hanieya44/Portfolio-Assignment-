@@ -1,9 +1,4 @@
 # Portfolio-Assignment-
-
-Reem Osharley <limarhaddad06@gmail.com>
-3:35 PM (0 minutes ago)
-to me
-
 MVC-FRAMEWORK
 https://github.com/samer22-teach/entry-framework-final-project.git C# & .NET Development Projects Welcome to my C# repository! This collection showcases the desktop applications, database integrations, and web applications I have built using C# and the .NET Framework.
 
